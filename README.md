@@ -1,5 +1,5 @@
 # Akka-remoting
-Scala scripts for connection speed testing using actors.
+Scala scripts for connection testing using actors.
 
 ## Description: 
 This package allows connection speed testing through two actors, each on separate Ports (and can be configured to 
