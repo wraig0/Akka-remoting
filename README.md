@@ -17,4 +17,4 @@ Each needs to be run separately, they will not both be run at the same time by E
 objects/applications.
 => Click the file (Receiver.scala and Sender.scala) and hit Run.
 		
-Try first starting the Sender, then after a few seconds the Receiver. 
+First start the Sender, then after a few seconds the Receiver. 
