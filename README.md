@@ -13,6 +13,8 @@ Sender.scala:
 Self sufficient Scala application that sends batches data to the Receiver.
 	
 ###	Instructions: 
+Script locations: Akka-remoting/src/akka/Receiver.scala
+Akka-remoting/src/akka/Sender.scala
 Each needs to be run separately, they will not both be run at the same time by Eclipse, they are two separate Scala 
 objects/applications.
 => Click the file (Receiver.scala and Sender.scala) and hit Run.
